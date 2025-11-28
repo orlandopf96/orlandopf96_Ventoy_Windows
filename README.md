@@ -1,6 +1,6 @@
 # **orlandopf96_Ventoy_Windows (Actualización)**
 
-**La mejor Herramienta para crear USB multiboot**
+**La mejor Herramienta para crear USB multiboot para instalación de diferentes sistemas operativos en una sola unidad**
 
 ![Screenshot](/PICTURES/imagen.jpg) 
 
